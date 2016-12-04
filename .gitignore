@@ -65,7 +65,7 @@ fastlane/report.xml
 fastlane/screenshots
 
 # Sensitive details about remote backup
-Loop/RemoteSettings.plist
+RemoteSettings.plist
 
 # OS
 .DS_Store
