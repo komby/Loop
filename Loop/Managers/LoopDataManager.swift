@@ -711,7 +711,6 @@ final class LoopDataManager {
             "eventualBG": round(prediction.last!.quantity.doubleValue(for: unit)) as AnyObject]
         logger.loopPushNotification(message: pushMessage, loopAlert: false);
     }
-
 }
 
 extension LoopDataManager {
